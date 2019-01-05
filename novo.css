@@ -1,0 +1,28 @@
+html, body { margin: 0; padding: 0;}
+
+body{
+	background: url(https://4.bp.blogspot.com/-AEeU3DIOwyk/XDEFXx2U1VI/AAAAAAAAECY/X2aZkPaSocENWRFMJPopb61ddRk7_pXjACLcBGAs/s1600/degrade.jpg) no-repeat fixed center;}
+
+#geral{width:960px; margin: 0 auto;}
+#logo{margin: 70px auto 80px auto; width:321px; height:321px; display: block}
+.box{position: relative;margin: 0 10px 0 25px; width: 200px; float:left; }
+.afm-logo {
+	margin: 80px auto 20px auto;
+}
+.afm-player {
+	width: 100%;
+	display: block;
+}
+h2{ font-family: Verdana;
+	font-size: 1em;
+	font-weight: bold;
+	color:#808080;
+	text-align: center;
+	display: block;
+	margin: 20px auto;
+}
+@media screen and (max-width: 640px) {
+	.afm-logo {
+		margin: 20px auto 0 auto;
+	}
+}
